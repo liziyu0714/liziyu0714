@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @liziyu0714
-- 👀 I’m interested in C# and C++
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in .Net Platform
+- 🌱 I’m currently learning F#
+- 📫 You can reach me by my Email
 
 <!---
 liziyu0714/liziyu0714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
