@@ -9,6 +9,7 @@ Busy in study and lazy in coding.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziyu0714&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liziyu0714&repo=FishDeskNextReborn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 liziyu0714/liziyu0714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
