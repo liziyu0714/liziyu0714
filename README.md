@@ -3,11 +3,11 @@
 Student. Coding in C# and C++.
 Busy in study and lazy in coding.
 
-| Nation | Language | Gender | Birth Year |
-| ---- | ---- |
-| China | zh-CN/en-US | Male | 2007 |
+|  Nation  |  Language |  Gender  |  Birth Year  |
+|  ----  |  ----  |
+|  China  |  zh-CN/en-US  |  Male(use he/him)  |  2007  |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziyu0714)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
